@@ -1,12 +1,12 @@
 # Реферальная система
 
-http://igor0405.pythonanywhere.com/api/schema/redoc/
-http://igor0405.pythonanywhere.com/api/schema/swagger-ui/
-http://igor0405.pythonanywhere.com/api/v1/register/
-http://igor0405.pythonanywhere.com/api/v1/verify/
-http://igor0405.pythonanywhere.com/api/v1/profile/
-http://igor0405.pythonanywhere.com/api/v1/activate_invite_code/
-http://igor0405.pythonanywhere.com/api/v1/invited_users/
+[Документация API](http://igor0405.pythonanywhere.com/api/schema/redoc/)
+[Swagger UI](http://igor0405.pythonanywhere.com/api/schema/swagger-ui/)
+[Регистрация пользователя](http://igor0405.pythonanywhere.com/api/v1/register/)
+[Верификация пользователя](http://igor0405.pythonanywhere.com/api/v1/verify/)
+[Профиль пользователя](http://igor0405.pythonanywhere.com/api/v1/profile/)
+[Активация пригласительного кода](http://igor0405.pythonanywhere.com/api/v1/activate_invite_code/)
+[Список приглашенных пользователей](http://igor0405.pythonanywhere.com/api/v1/invited_users/)
 
 ## Описание
 
