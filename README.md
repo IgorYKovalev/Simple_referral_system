@@ -1,5 +1,13 @@
 # Реферальная система
 
+http://igor0405.pythonanywhere.com/api/schema/redoc/
+http://igor0405.pythonanywhere.com/api/schema/swagger-ui/
+http://igor0405.pythonanywhere.com/api/v1/register/
+http://igor0405.pythonanywhere.com/api/v1/verify/
+http://igor0405.pythonanywhere.com/api/v1/profile/
+http://igor0405.pythonanywhere.com/api/v1/activate_invite_code/
+http://igor0405.pythonanywhere.com/api/v1/invited_users/
+
 ## Описание
 
 Простая реферальная система с использованием Django и Django REST Framework.
